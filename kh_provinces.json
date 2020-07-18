@@ -1,0 +1,188 @@
+[{
+    "id" : 1,
+    "kh_name" : "បន្ទាយមានជ័យ",
+    "en_name" : "Banteay Meanchey",
+    "capital" : {
+        "capital_one" : "Serei Saophoan",
+        "capital_two" : "Poipet"
+    },
+    "area" : 6679
+},
+{
+    "id" : 2,
+    "kh_name" : "បាត់ដំបង",
+    "en_name" : "Battambang",
+    "capital" :"Battambang",
+    "area" : 11702
+},
+{
+    "id" : 3,
+    "kh_name" : "កំពង់ចាម",
+    "en_name" : "Kampong Cham",
+    "capital" :"Kampong Cham",
+    "area" : 4549
+},
+{
+    "id" : 4,
+    "kh_name" : "កំពង់ឆ្នាំង",
+    "en_name" : "Kampong Chhnang",
+    "capital" :"Battambang",
+    "area" : 5521
+},
+{
+    "id" : 5,
+    "kh_name" : "កំពង់ស្ពឺ",
+    "en_name" : "Kampong Speu",
+    "capital" :"Chhbar Mon",
+    "area" : 872219
+},
+{
+    "id" : 6,
+    "kh_name" : "កំពង់ធំ",
+    "en_name" : "Kampong Thom",
+    "capital" :"Steung Saen",
+    "area" : 677260
+},
+{
+    "id" : 7,
+    "kh_name" : "កំពត",
+    "en_name" : "Kampot",
+    "capital" :"Kampot",
+    "area" : 4873
+},
+{
+    "id" : 8,
+    "kh_name" : "កណ្តាល",
+    "en_name" : "Kandal",
+    "capital" :"Ta Khmau",
+    "area" : 3179
+},
+{
+    "id" : 9,
+    "kh_name" : "កោះកុង",
+    "en_name" : "Koh Kong",
+    "capital" :"Khemarak Phoumin",
+    "area" : 10090
+},
+{
+    "id" : 10,
+    "kh_name" : "ក្រចេះ",
+    "en_name" : "Kratié",
+    "capital" :"Kratié",
+    "area" : 11094
+},
+{
+    "id" : 11,
+    "kh_name" : "មណ្ឌលគិរី",
+    "en_name" : "Mondulkiri",
+    "capital" :"Senmonorom",
+    "area" : 14288
+},
+{
+    "id" : 12,
+    "kh_name" : "ភ្នំពេញ",
+    "en_name" : "Phnom Penh",
+    "capital" :"Doun Penh",
+    "area" : 679
+},
+{
+    "id" : 13,
+    "kh_name" : "ព្រះវិហារ",
+    "en_name" : "Preah Vihear",
+    "capital" :"Tbaeng Meanchey",
+    "area" : 13788
+},
+{
+    "id" : 14,
+    "kh_name" : "ព្រៃវែង",
+    "en_name" : "Prey Veng",
+    "capital" :"Prey Veng",
+    "area" : 4883
+},
+{
+    "id" : 15,
+    "kh_name" : "ពោធិ៍សាត់",
+    "en_name" : "Pursat",
+    "capital" :"Pursat",
+    "area" : 12692
+},
+{
+    "id" : 16,
+    "kh_name" : "រតនគិរី",
+    "en_name" : "Ratanak Kiri",
+    "capital" :"Banlung",
+    "area" : 10782
+},
+{
+    "id" : 17,
+    "kh_name" : "ព្រៃវែង",
+    "en_name" : "Prey Veng",
+    "capital" :"Prey Veng",
+    "area" : 4883
+},
+{
+    "id" : 18,
+    "kh_name" : "សៀមរាប",
+    "en_name" : "Siem Reap",
+    "capital" :"Siem Reap",
+    "area" : 10299
+},
+{
+    "id" : 19,
+    "kh_name" : "ព្រះសីហនុ",
+    "en_name" : "Preah Sihanouk",
+    "capital" :"Sihanoukville",
+    "area" : 1938
+},
+{
+    "id" : 20,
+    "kh_name" : "ស្ទឹងត្រែង",
+    "en_name" : "Stung Treng",
+    "capital" :"Stung Treng",
+    "area" : 11092
+},
+{
+    "id" : 21,
+    "kh_name" : "ស្វាយរៀង",
+    "en_name" : "Svay Rieng",
+    "capital" : {
+        "capital_one" : "Svay Rieng",
+        "capital_two" : "Bavet"
+    },
+    "area" : 2966
+},
+{
+    "id" : 22,
+    "kh_name" : "តាកែវ",
+    "en_name" : "Takéo",
+    "capital" :"Doun Kaev",
+    "area" : 3563
+},
+{
+    "id" : 23,
+    "kh_name" : "ឧត្តរមានជ័យ",
+    "en_name" : "Oddar Meanchey",
+    "capital" :"Samraong",
+    "area" : 3563
+},
+{
+    "id" : 24,
+    "kh_name" : "កែប",
+    "en_name" : "Kep",
+    "capital" :"Kep",
+    "area" : 336
+},
+{
+    "id" : 25,
+    "kh_name" : "ប៉ៃលិន",
+    "en_name" : "Pailin",
+    "capital" :"Pailin",
+    "area" : 803
+},
+{
+    "id" : 26,
+    "kh_name" : "ត្បូងឃ្មុំ",
+    "en_name" : "Tboung Khmum",
+    "capital" : "Suong",
+    "area" : 6679
+}]
